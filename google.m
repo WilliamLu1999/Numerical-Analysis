@@ -25,5 +25,4 @@ xlabel('real part(rE) of eigne values')
 ylabel('immaginary(iE) part of eigne values')
 title('Eigen values of L')
 
-% part c 
 
